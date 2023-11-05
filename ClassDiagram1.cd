@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab1_Petrushyn_program.Warframe">
+    <Position X="6.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAEAAAAABAAAAEQAAAQACAAFAAAAAQAAAQAAAAE=</HashCode>
+      <FileName>Class_Warframe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Lab1_Petrushyn_program.WarframeSex">
+    <Position X="7.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQCAAAA=</HashCode>
+      <FileName>Class_Warframe.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Lab1_Petrushyn_program.WarframeType">
+    <Position X="7.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Class_Warframe.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
